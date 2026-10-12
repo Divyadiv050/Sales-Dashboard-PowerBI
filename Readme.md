@@ -32,4 +32,3 @@ The dashboard provides a starting point for understanding sales performance and 
 
 ---
 
-*This is an independent learning project created to develop practical business intelligence and data analysis skills.*
