@@ -1,4 +1,4 @@
-# Sales Performance & Profitability Dashboard
+# Sales Performance & Profitability Dashboard.
 
 ## Project Overview
 This project explores sales performance and profitability using an interactive Power BI dashboard. It aims to help business stakeholders understand overall sales performance and compare profitability across customer segments.
